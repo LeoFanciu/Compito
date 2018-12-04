@@ -6,7 +6,7 @@ void main() {
 
 	while (counter < 10) {
 
-		counter++;
+		counter++;  // conflitto fix bug
 		cout << counter << " creazione del conflitto";
 
 
