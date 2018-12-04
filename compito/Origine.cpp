@@ -6,9 +6,13 @@ void main() {
 
 	while (counter < 10) {
 
+<<<<<<< HEAD
 		counter++;
 
 		cout << "tentativo conflitto2";
+=======
+		counter++;  // conflitto fix bug
+>>>>>>> FIX_BUG
 		cout << counter << " creazione del conflitto";
 
 
