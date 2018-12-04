@@ -7,6 +7,8 @@ void main() {
 	while (counter < 10) {
 
 		counter++;
+
+		cout << "tentativo conflitto2";
 		cout << counter << " creazione del conflitto";
 
 
